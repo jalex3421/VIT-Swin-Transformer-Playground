@@ -1,13 +1,18 @@
 # Vision Transformer (ViT) Implementation
 
-This project provides a **step-by-step Jupyter Notebook implementation** of the **Vision Transformer (ViT)**, built entirely from scratch using **PyTorch**.
+This repository offers a comprehensive step-by-step implementation of the Vision Transformer (ViT), developed entirely from scratch using PyTorch.
 
-The goal is to demystify the Vision Transformer architecture by breaking it down into manageable components. The notebook offers:
-- Hands-on code examples
-- Inline explanations
-- Real-world training using the **Oxford-IIIT Pet Dataset**
+The objective is to provide a clear understanding of the Vision Transformer architecture by breaking it down into digestible, manageable components. The accompanying Jupyter Notebook includes:
 
-Additionally, this repository demonstrates how to leverage a pre-trained **Swin Transformer** and fine-tune it for a custom target dataset.
+- Interactive, hands-on code examples
+
+- Detailed inline explanations
+
+- Real-world training demonstrations using the Oxford-IIIT Pet Dataset
+
+In addition, the project highlights the usage of a pre-trained Swin Transformer model, showcasing how to fine-tune it for custom datasets.
+
+Furthermore, it introduces the concept of AI agents with practical implementations, providing insight into integrating Swin Transformers for image classification tasks within an agent-based architecture.
 
 ---
 
