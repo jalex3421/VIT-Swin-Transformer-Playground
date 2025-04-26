@@ -39,7 +39,7 @@ In addition to the main Swin Transformer training notebook, this repository also
 
 - Inside the agent/ folder, the fine-tuned Swin Transformer model is loaded and wrapped into a Google ADK Agent.
 
--The agent is designed to classify images by fetching them from URLs. (For demonstration purposes, it currently uses a hardcoded URL.) The model is used purely for inference, without any re-training.
+- The agent is designed to classify images by fetching them from URLs. (For demonstration purposes, it currently uses a hardcoded URL.) The model is used purely for inference, without any re-training.
 
 This demonstrates how a trained ViT-based model like Swin Transformer can be integrated into a production-like agent environment.
 
