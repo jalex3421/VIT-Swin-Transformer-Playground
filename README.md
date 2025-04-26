@@ -33,6 +33,17 @@ The Swin Transformer notebook walks through:
 - ✅ **Saving Weights & Predictions:** Saving the fine-tuned model weights and using the model to make predictions.
 
 ---
+##  🤖 Agent Folder
+
+In addition to the main Swin Transformer training notebook, this repository also includes an agent/ folder.
+
+- Inside the agent/ folder, the fine-tuned Swin Transformer model is loaded and wrapped into a Google ADK Agent.
+
+-The agent is designed to classify images by fetching them from URLs. (For demonstration purposes, it currently uses a hardcoded URL.) The model is used purely for inference, without any re-training.
+
+This demonstrates how a trained ViT-based model like Swin Transformer can be integrated into a production-like agent environment.
+
+-----
 ## 💾 Dataset
 
 This project uses:
