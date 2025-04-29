@@ -4,4 +4,4 @@ The agent classifies a single image from a URL into one of 37 pet categories.
 
 ADK docs: https://google.github.io/adk-docs/
 
-[!image](agent_demo.png)
+![image](agent_demo.png)
