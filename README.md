@@ -1,5 +1,7 @@
 # Vision Transformer (ViT) Implementation
 
+Author: Alejandro Meza Tudela
+
 This repository offers a comprehensive step-by-step implementation of the Vision Transformer (ViT), developed entirely from scratch using PyTorch.
 
 The objective is to provide a clear understanding of the Vision Transformer architecture by breaking it down into digestible, manageable components. The accompanying Jupyter Notebook includes:
