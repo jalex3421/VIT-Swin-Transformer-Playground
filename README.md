@@ -45,7 +45,7 @@ The Hugging Face folder contains the necessary components for deploying the fine
 
 The primary objective of this folder is to provide a seamless interface for users to interact with the Swin Transformer model, upload images, and receive predictions in real-time. It also demonstrates how to deploy a pre-trained model within the Hugging Face platform.
 
-![Deploy](./HuggingFaceDeployment/demoImage.png)
+![Deploy](./HuggingFaceDeployment/demoImage.jpg)
 ---
 ##  🤖 Agent Folder
 
