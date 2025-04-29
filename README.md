@@ -40,6 +40,13 @@ The Swin Transformer notebook walks through:
 - ✅ **Saving Weights & Predictions:** Saving the fine-tuned model weights and using the model to make predictions.
 
 ---
+##   Hugging face Folder
+The Hugging Face folder contains the necessary components for deploying the fine-tuned Swin Transformer model as an interactive web application using Gradio on Hugging Face Spaces.
+
+The primary objective of this folder is to provide a seamless interface for users to interact with the Swin Transformer model, upload images, and receive predictions in real-time. It also demonstrates how to deploy a pre-trained model within the Hugging Face platform.
+
+![Deploy](./HuggingFaceDeployment/demoImage.png)
+---
 ##  🤖 Agent Folder
 
 In addition to the main Swin Transformer training notebook, this repository also includes an agent/ folder.
