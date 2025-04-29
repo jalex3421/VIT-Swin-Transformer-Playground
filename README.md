@@ -48,7 +48,7 @@ In addition to the main Swin Transformer training notebook, this repository also
 
 This demonstrates how a trained ViT-based model like Swin Transformer can be integrated into a production-like agent environment.
 
-[demo] (./agent/agent_demo.png)
+[demo] (/agent/agent_demo.png)
 
 -----
 ## 💾 Dataset
