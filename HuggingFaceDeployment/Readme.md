@@ -18,6 +18,17 @@ This app is hosted live on [Hugging Face Spaces](https://huggingface.co/spaces/A
 - Output: Predicted class name and class ID
 
 ---
+## How can you deploy this model?
+
+- Create a hugging face account
+- Create a personal hugging face space
+- Upload the requirements.txt and the app.py file
+- Obtain the .pth file with the weights of the model executing the notebook located in the fine-tuned-swin-transformer folder
+---
+
+![demo](./hugging_face_output.png)
+
+
 
 ## How to Run Locally ? 
 
@@ -35,3 +46,5 @@ pip install -r requirements.txt
 
 # 3. Run the app
 python app.py
+
+
