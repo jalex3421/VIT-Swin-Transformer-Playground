@@ -1,4 +1,4 @@
-# Vision Transformer (ViT) Implementation
+# VIT-Swin-Transformer-Playground
 
 Author: Alejandro Meza Tudela
 
